@@ -1,0 +1,43 @@
+:root {
+  --primary-100: #892cdc;
+  --primary-200: #bc6ff1;
+  --primary-300: #fdf6fd;
+  --accent-100: #d9acf5;
+  --accent-200: #fff4ff;
+  --text-100: #eeeeee;
+  --text-200: #fdebed;
+  --bg-100: #222831;
+  --bg-200: #393e46;
+  --bg-300: #454e59;
+}
+
+.primary-100 {
+  cor: var(--primary-100);
+}
+.primary-200 {
+  cor: var(--primary-200);
+}
+.primary-300 {
+  cor: var(--primary-300);
+}
+.accent-100 {
+  cor: var(--accent-100);
+}
+.accent-200 {
+  cor: var(--accent-200);
+}
+.text-100 {
+  cor: var(--text-100);
+}
+.text-200 {
+  cor: var(--text-200);
+}
+.bg-100 {
+  cor: var(--bg-100);
+}
+.bg-200 {
+  cor: var(--bg-200);
+}
+.bg-300 {
+  cor: var(--bg-300);
+}
